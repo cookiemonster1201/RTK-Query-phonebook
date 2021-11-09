@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "name": "Alona Mykytiuk",
+      "number": "+380995005437",
+      "id": 3
+    },
+    {
+      "name": "Jane Doe",
+      "number": "545566474",
+      "id": 4
+    },
+    {
+      "name": "Fillip Morris",
+      "number": "92756965",
+      "id": 5
+    },
+    {
+      "name": "Jason Statham",
+      "number": "76592",
+      "id": 7
+    }
+  ]
+}

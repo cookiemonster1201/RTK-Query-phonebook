@@ -1,0 +1,43 @@
+@import 'modern-normalize/modern-normalize.css';
+
+:root {
+  --main-font-family: 'DM Sans', sans-serif;
+  --title-font-family: 'Titan One', cursive;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: #fff;
+  font-family: var(--main-font-family);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+button {
+  cursor: pointer;
+}
+
+li,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}

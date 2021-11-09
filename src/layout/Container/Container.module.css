@@ -1,0 +1,22 @@
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* @media screen and (min-width: $mobile-media) {
+  .container {
+    width: var(--mobile-width-container);
+  }
+}
+
+@media screen and (min-width: $tablet-media) {
+  .container {
+    width: var(--tablet-width-container);
+  }
+}
+
+@media screen and (min-width: $desktop-media) {
+  .container {
+    width: var(--desktop-width-container);
+  }
+} */
